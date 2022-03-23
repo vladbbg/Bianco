@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bianco/img/main1.jpg"
   },
   {
-    "revision": "f0fdd6158b8bb3f5443f23e44bd20a99",
+    "revision": "5ee9bd0cb40aab132bb26313c49a8516",
     "url": "/bianco/index.html"
   },
   {
@@ -184,7 +184,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bianco/js/chunk-vendors.8e4d88cc.js"
   },
   {
-    "revision": "27a30e9a98bef9e1d276d4aff6e75e27",
+    "revision": "52c0507b1cc17a713ed5dfe1371b0395",
     "url": "/bianco/manifest.json"
   },
   {
