@@ -94,7 +94,7 @@
           <b-row no-gutters>
             <b-col cols="5" class="">
               <b-card-img
-                src="/img/About/4.jpg"
+                s:rc="/img/About/4.jpg"
                 alt="Image"
                 class="rounded-0"
               ></b-card-img>
